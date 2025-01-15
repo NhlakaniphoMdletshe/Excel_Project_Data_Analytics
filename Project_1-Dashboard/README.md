@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/63d6b8b3-2288-4b7a-8192-bdfdcb071696)
 
 ## Introduction
 
@@ -34,7 +34,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+![1_Salary_Dashboard_Chart1](https://github.com/user-attachments/assets/7a18a5ed-9ca5-4244-bc21-60c4710e4ba9)
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -74,11 +74,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+![1_Salary_Dashboard_Screenshot1](https://github.com/user-attachments/assets/aea3a5bc-0e6a-437b-b28f-aacd793ba630)
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+![1_Salary_Dashboard_Job_Title](https://github.com/user-attachments/assets/27e672d8-8aaa-4497-991b-8017b86453d0)
 
 #### ⏰ Count of Job Schedule Type
 
@@ -91,11 +91,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+![1_Salary_Dashboard_Screenshot2](https://github.com/user-attachments/assets/d85ddd00-7b3a-4b34-b605-ec73cef0d8f2)
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+![1_Salary_Dashboard_Type](https://github.com/user-attachments/assets/b787ef4b-4afc-47e0-8b54-1df2423d5965)
 
 ### ❎ Data Validation
 
